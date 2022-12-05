@@ -2,7 +2,7 @@
 ## - 👀 I’m interested in study
 ## - 🌱 I’m currently learning how to get into your crush's heart
 ## - 💞️ I’m looking to collaborate on u
-## - 📫 Contact me: [Instagram]([https://www.instagram.com/](https://www.instagram.com/mwuan.www/))
+## - 📫 Contact me: [Instagram](https://www.instagram.com/mwuan.www/)
 ## <img src=https://imgur.com/a/FzcNY3t>
 <!---
 Be-Tap-Code/Be-Tap-Code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
