@@ -1,7 +1,7 @@
-##  👋 Hi, I’m *@Be-Tap-Code*
-##  👀 I’m interested in study
-##  🌱 I’m currently learning how to get into your crush's heart
-##  💞️ I’m looking to collaborate on u
+##  👋 Hi, I’m *@Be_Tap_Code*
+#  👀 I’m interested in study
+#  🌱 I’m currently learning how to get into your crush's heart
+#  💞️ I’m looking to collaborate on u
 ##  📫 Contact me: *[Instagram](https://www.instagram.com/mwuan.www/)*
 ##  <img src=https://i.imgur.com/l2bgojS.png>
 <!---
