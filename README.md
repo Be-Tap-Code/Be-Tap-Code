@@ -4,6 +4,13 @@
   - 💞️ I’m looking to collaborate on innovative projects in AI applications and software development.
   - 👨‍💻 As an AI Engineer, I specialize in machine learning, deep learning, and deploying scalable AI solutions, consistently aiming to innovate and optimize various applications.
 ####  📫 Contact me: *[Facebook](https://www.facebook.com/profile.php?id=100012247037754)*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&layout=compact" />
+</p>
 ##  <img src=https://i.imgur.com/l2bgojS.png>
 <!---
 Be-Tap-Code/Be-Tap-Code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
