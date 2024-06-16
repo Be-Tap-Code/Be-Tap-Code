@@ -2,7 +2,8 @@
   - 👀 I’m interested in advancing my skills in AI and web development.
   - 🌱 I’m currently learning advanced algorithms and system design to enhance my AI engineering capabilities.
   - 💞️ I’m looking to collaborate on innovative projects in AI applications and software development.
-####  📫 Contact me: *[Instagram](https://www.instagram.com/mwuan.www/)*
+  - 👨‍💻 As an AI Engineer, I specialize in machine learning, deep learning, and deploying scalable AI solutions, consistently aiming to innovate and optimize various applications.
+####  📫 Contact me: *[Facebook](https://www.facebook.com/profile.php?id=100012247037754)*
 ##  <img src=https://i.imgur.com/l2bgojS.png>
 <!---
 Be-Tap-Code/Be-Tap-Code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
