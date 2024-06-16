@@ -1,7 +1,7 @@
 ###  👋 Hi, I’m *@Tran Minh Quan*
-  - 👀 I’m interested in advancing my skills in web development and AI.
-  - 🌱 I’m currently learning advanced algorithms and system design to enhance my software engineering capabilities.
-  - 💞️ I’m looking to collaborate on innovative projects in software development and AI applications.
+  - 👀 I’m interested in advancing my skills in AI and web development.
+  - 🌱 I’m currently learning advanced algorithms and system design to enhance my AI engineering capabilities.
+  - 💞️ I’m looking to collaborate on innovative projects in AI applications and software development.
 ####  📫 Contact me: *[Instagram](https://www.instagram.com/mwuan.www/)*
 ##  <img src=https://i.imgur.com/l2bgojS.png>
 <!---
