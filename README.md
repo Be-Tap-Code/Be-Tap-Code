@@ -1,7 +1,7 @@
-###  👋 Hi, I’m *@Be_Tap_Code*
-  - 👀 I’m interested in studying
-  - 🌱 I’m currently learning how to get into your crush's heart
-  - 💞️ I’m looking to collaborate on u
+###  👋 Hi, I’m *@Tran Minh Quan*
+  - 👀 I’m interested in advancing my skills in web development and AI.
+  - 🌱 I’m currently learning advanced algorithms and system design to enhance my software engineering capabilities.
+  - 💞️ I’m looking to collaborate on innovative projects in software development and AI applications.
 ####  📫 Contact me: *[Instagram](https://www.instagram.com/mwuan.www/)*
 ##  <img src=https://i.imgur.com/l2bgojS.png>
 <!---
